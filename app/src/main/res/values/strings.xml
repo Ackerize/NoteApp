@@ -3,9 +3,10 @@
     <string name="bienvenido_text">Bienvenido</string>
     <string name="welcome_text">Welcome</string>
 
-    <string name="app_name">ModernLogin</string>
     <string name="login_email_hint">Email</string>
     <string name="login_password_hint">Password</string>
+    <string name="registrarse_text">No tienes una cuenta? Registrate</string>
+    <string name="olvidar_contra">Olvidaste la contraseña?</string>
 
     <!--for facebook login-->
 
