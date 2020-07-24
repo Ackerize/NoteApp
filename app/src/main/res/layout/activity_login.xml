@@ -2,7 +2,6 @@
 <RelativeLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/login_bk_color"
@@ -81,9 +80,6 @@
                 app:spinning_bar_padding="6dp"
                 app:spinning_bar_width="4dp" />
 
-
-
-
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -101,7 +97,7 @@
                     style="@style/viewParent.headerText.NoMode"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Login via social media"
+                    android:text="@string/login_social_media"
                     android:layout_weight="6"
                     android:textSize="14sp"
                     android:textAlignment="center"/>
@@ -150,8 +146,7 @@
                 android:textColor="@color/themeColor"
                 android:textSize="17sp"
                 android:text="@string/registrarse_text"
-                android:layout_marginTop="@dimen/loginViewsMargin"
-                android:onClick="onLoginClick"/>
+                android:layout_marginTop="@dimen/loginViewsMargin" />
 
         </LinearLayout>
     </ScrollView>
@@ -169,6 +164,5 @@
         android:layout_height="wrap_content"
         android:src="@drawable/ic_add_img"
         android:layout_marginEnd="11dp"
-        android:layout_marginBottom="30dp"
-        android:onClick="onLoginClick"/>
+        android:layout_marginBottom="30dp" />
 </RelativeLayout>

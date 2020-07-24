@@ -7,6 +7,7 @@
     <string name="login_password_hint">Password</string>
     <string name="registrarse_text">No tienes una cuenta? Registrate</string>
     <string name="olvidar_contra">Olvidaste la contraseña?</string>
+    <string name="login_social_media">Login via social media</string>
 
     <!--for facebook login-->
 
