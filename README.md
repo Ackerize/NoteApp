@@ -3,4 +3,8 @@
 ## Screenshots
 * **Login screen**  
 
-![ScreenShot](https://raw.github.com/DavidVallecios/NoteApp/master/screenshots/Grupo%203827.png)
+![Login](https://raw.github.com/DavidVallecios/NoteApp/master/screenshots/login.png)  
+
+* **Register screen**  
+
+![Register](https://raw.github.com/DavidVallecios/NoteApp/master/screenshots/register.png)  
